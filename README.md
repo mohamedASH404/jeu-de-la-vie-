@@ -1,2 +1,2 @@
-# jeu-de-la-vie-
+# jeu-de-la-vie
 Un jeu de la vie en JavaScript
